@@ -36,4 +36,4 @@ async def on_member_update(before, after):
         time.sleep(1)
 
 
-bot.run('Njk5ODAyODc5ODc1MzUwNjM4.XpZvLw.HM5wEuXyFqmi-0BdY72D3e7YIwY')
+bot.run('Njk5ODAyODc5ODc1MzUwNjM4.XpZvLw.HM5wEuXyFqmi-0BdY72D3e7YIwY') #an outdated token of course
